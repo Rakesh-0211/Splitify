@@ -37,9 +37,6 @@ Built with **MongoDB + Express + React (Vite) + Node + Tailwind CSS**
 git clone https://github.com/YOUR-USERNAME/splitify.git
 cd splitify
 
-yaml
-Copy code
-
 ---
 
 ## 🔧 Backend Setup
@@ -69,8 +66,6 @@ Server runs at:
 
 http://localhost:5000
 
-yaml
-Copy code
 
 ---
 
@@ -86,9 +81,6 @@ Copy code
 Frontend runs at:
 
 http://localhost:5173
-
-sql
-Copy code
 
 ---
 
@@ -133,9 +125,6 @@ Copy code
 
 A owes B ₹200
 C owes A ₹150
-
-yaml
-Copy code
 
 ---
 
