@@ -26,51 +26,7 @@ Built with **MongoDB + Express + React (Vite) + Node + Tailwind CSS**
 ✔ Backend + frontend structured cleanly  
 ✔ Auto-create users if not found  
 
----
 
-Expense/
-├── backend/
-│   ├── src/
-│   │   ├── config/
-│   │   │   └── db.js
-│   │   ├── controllers/
-│   │   │   ├── balances.controller.js
-│   │   │   ├── expenses.controller.js
-│   │   │   ├── groups.controller.js
-│   │   │   └── users.controller.js
-│   │   ├── models/
-│   │   │   ├── Balance.js
-│   │   │   ├── Expense.js
-│   │   │   ├── Group.js
-│   │   │   └── User.js
-│   │   ├── routes/
-│   │   │   ├── balances.routes.js
-│   │   │   ├── expenses.routes.js
-│   │   │   ├── groups.routes.js
-│   │   │   └── users.routes.js
-│   │   ├── app.js
-│   │   └── server.js
-│   └── package.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── api.js
-│   │   ├── context/
-│   │   │   └── AuthContext.jsx
-│   │   ├── components/
-│   │   │   ├── Login.jsx
-│   │   │   ├── Groups.jsx
-│   │   │   ├── Expenses.jsx
-│   │   │   └── Balances.jsx
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
-│
-└── README.md
-
-
-yaml
-Copy code
 
 ---
 
